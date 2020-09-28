@@ -1,0 +1,13 @@
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\bin\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.exe
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\bin\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.deps.json
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\bin\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.runtimeconfig.json
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\bin\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.runtimeconfig.dev.json
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\bin\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.dll
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\bin\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.pdb
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\obj\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.csprojAssemblyReference.cache
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\obj\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.AssemblyInfoInputs.cache
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\obj\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.AssemblyInfo.cs
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\obj\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.csproj.CoreCompileInputs.cache
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\obj\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.dll
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\obj\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.pdb
+D:\MicrosoftC#\Desenvolvimento\MicrosoftDesenvolvimento\obj\Debug\netcoreapp3.1\MicrosoftDesenvolvimento.genruntimeconfig.cache
