@@ -6,7 +6,7 @@ using System.Text;
 
 namespace MicrosoftDesenvolvimento.DAL
 {
-    class MascoteDAO : Cliente
+    class MascoteDAO 
     {
         private static List<Mascote> mascotes = new List<Mascote>();
         public static List<Mascote> ListarMasc() => mascotes;

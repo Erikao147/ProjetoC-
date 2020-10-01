@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MicrosoftDesenvolvimento.DAL
 {
-    class AdocaoDAO : Cliente
+    class AdocaoDAO 
     {
         private static List<Adocao> adotados = new List<Adocao>();
         public static List<Adocao> Listar() => adotados;
