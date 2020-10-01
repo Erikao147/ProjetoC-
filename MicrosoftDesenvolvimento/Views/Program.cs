@@ -24,6 +24,8 @@ namespace MicrosoftDesenvolvimento.Views
                 Console.WriteLine(" 4 - Listar Funcionario");
                 Console.WriteLine(" 5 - Cadastrar Mascote");
                 Console.WriteLine(" 6 - Listar Mascote");
+                Console.WriteLine(" 7 - Listar Mascotes Para adoção");
+                Console.WriteLine(" 8 - Adoção de Mascote");
                 Console.WriteLine(" 0 - Sair");
                 Console.WriteLine(" Escolha a Opção");
                 opcao = Convert.ToInt32(Console.ReadLine());
@@ -48,6 +50,16 @@ namespace MicrosoftDesenvolvimento.Views
                     case 6:
                         ListarMascote.ListarMasc();
                         break;
+
+                    case 7:
+                        AdotarMascote.Adocao();
+                        break;
+
+                    case 8:
+                        ListarMascCad.Listar();
+                        AdotarMascote.Adocao();
+                        break;
+
                     case 0:
                         Console.WriteLine(" Saindo...");
                         break;

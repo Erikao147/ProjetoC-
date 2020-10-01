@@ -10,7 +10,7 @@ namespace MicrosoftDesenvolvimento.Views
     {
         public static void Renderizar()
         {
-            Console.WriteLine(" Cadastro  Funcionario");
+            Console.WriteLine(" ------Cadastro  Funcionario-------");
 
             Funcionario f = new Funcionario();
 

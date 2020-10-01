@@ -11,7 +11,7 @@ namespace MicrosoftDesenvolvimento.Views
     {
         public static void Renderizar()
         {
-            Console.WriteLine(" Cadastro  de Mascote");
+            Console.WriteLine(" -----Cadastro  de Mascote------");
 
             Mascote m = new Mascote();
 

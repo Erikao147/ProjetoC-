@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MicrosoftDesenvolvimento.Models
 {
-    class Mascote
+    class Mascote 
     {
         public string Nome { get; set; }
         public string CpfDono { get; set; }
@@ -16,11 +16,12 @@ namespace MicrosoftDesenvolvimento.Models
         public string relatorio { get; set; }
 
         public   DateTime DataCad { get; set; }
-
+        public Cliente Cliente { get; }
 
         public Mascote()
         {
             DataCad = DateTime.Now;
+            Cliente c = new Cliente();
 
         }
 
